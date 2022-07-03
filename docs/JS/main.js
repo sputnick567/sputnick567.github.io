@@ -1,4 +1,4 @@
 
-if (Math.random() < 0.10) {
+if (Math.random() < 0.35) {
     document.getElementById("formsUmfrage").style.visibility = "visible";
 }
